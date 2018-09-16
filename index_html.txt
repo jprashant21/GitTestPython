@@ -1,4 +1,5 @@
 from itertools import chain
+import seaborn as sns
 
 # Create a list of allies
 allies = ['Spain', 'Germany', 'Namibia', 'Austria']
